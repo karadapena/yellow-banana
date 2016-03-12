@@ -1,3 +1,2 @@
 # yellow-banana
-NICAR training about bananas
-:banana: :yellow_heart: 
+NICAR :train:ing about :banana:s
