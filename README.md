@@ -1,3 +1,3 @@
 # yellow-banana
 NICAR training about bananas
-:banana: :yellow_heart:
+:banana: :yellow_heart: 
