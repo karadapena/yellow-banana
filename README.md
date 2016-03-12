@@ -1,2 +1,2 @@
 # yellow-banana
-NICAR training
+NICAR training about bananas
