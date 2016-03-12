@@ -1,2 +1,2 @@
 # yellow-banana
-nicar training
+NICAR training
